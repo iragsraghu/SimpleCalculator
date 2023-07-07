@@ -1,3 +1,3 @@
-module github.com/iragsraghu/SimpleCalculator
+module github.com/iragsraghu/calculator
 
 go 1.19

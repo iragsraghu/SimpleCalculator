@@ -1,17 +1,17 @@
 package calculator
 
-func sum(a, b int64) int64 {
+func Sum(a, b int64) int64 {
 	return a + b
 }
 
-func sub(a, b int64) int64 {
+func Sub(a, b int64) int64 {
 	return a - b
 }
 
-func multipy(a, b int64) int64 {
+func Multipy(a, b int64) int64 {
 	return a * b
 }
 
-func division(a, b int64) int64 {
+func Division(a, b int64) int64 {
 	return a / b
 }
